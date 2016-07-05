@@ -8,9 +8,9 @@ description: A blog about technology and stuff related
 # if it's an external image, update below for true
 # better with square images
 external-image: false
-picture: assets/images/skuladeep.jpg
+picture: assets/images/Kola.jpg
 
-url: https://lh3.googleusercontent.com/-SOqVq1uUnvw/Thupj5QA5zI/AAAAAAAAARA/X_4Ip5i3124GC5fZav61L_VBuF_fjG1xQCKgB/w140-h139-p/Mine.jpg
+url: https://skuladeep24.github.io/blog/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -47,7 +47,7 @@ authors:
         name: Kuladeep Kumar
         bio:  An open source enthusiast
         external-image: false
-        picture: assets/images/skuladeep.jpg
+        picture: assets/images/Kola.jpg
         twitter: skuladeep
 
 # do you want a larger site? change the option below
