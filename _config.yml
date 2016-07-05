@@ -7,10 +7,10 @@ description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
+external-image: true
 picture: assets/images/profile.jpg
 
-url: http://koppl.in/indigo
+url: https://lh3.googleusercontent.com/-SOqVq1uUnvw/Thupj5QA5zI/AAAAAAAAARA/X_4Ip5i3124GC5fZav61L_VBuF_fjG1xQCKgB/w140-h139-p/Mine.jpg
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -73,7 +73,7 @@ about: false
 blog: true
 
 # do you want to show the "read time" of the posts?
-read-time: true
+read-time: false
 
 # do you want to show the "tags" inside the posts?
 show-tags: true
