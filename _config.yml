@@ -29,32 +29,32 @@ highlighter: rouge
 disqus: mydisqus
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
+#facebook: myfacebook
+twitter: skuladeep
 # google: mygoogle
 # instagram: myinstagram
 # pinterest: mypinterest
 # linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
-github: mygithub
-medium: medium
-vimeo: myvimeo
-email: myemail@gmail.com
+#youtube: myyoutube
+#spotify: myspotify
+github: skuladeep24
+#medium: medium
+#vimeo: myvimeo
+email: skuladeep24@gmail.com
 
 authors:
-    johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+    Kuladeep:
+        name: Kuladeep Kumar
+        bio:  An open source enthusiast
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
     jamesfoster:
         name: James Foster
         bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        external-image: true
+        picture: https://avatars1.githubusercontent.com/u/15117106?v=3&s=96
+        twitter: skuladeep
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
